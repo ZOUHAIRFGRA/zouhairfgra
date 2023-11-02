@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hello, I'm Zouhair!<br><br>👨‍💻 I'm passionate about coding, programming, and all IT. 🚀<br><br>🎯 My goals? To excel in computer science, build innovative projects.<br><br>💡 Let's connect and collaborate on exciting tech projects! 📧 zouhairfgra@gmail.com 🌐 zouhairfgra.me<br>
+👋 Hello, I'm Zouhair!<br><br>👨‍💻 I'm passionate about coding, programming, and all IT. 🚀<br><br>🎯 My goals? To excel in computer science, build innovative projects.<br><br>💡 Let's connect and collaborate on exciting tech projects! 📧 zouhairfgra@gmail.com 🌐 https://zouhairfgra.me<br>
 
 
 # 💻 Tech Stack:
