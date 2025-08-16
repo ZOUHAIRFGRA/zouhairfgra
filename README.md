@@ -1,15 +1,35 @@
-# 💫 About Me:
-👋 Hello, I'm Zouhair!<br><br>👨‍💻 I'm passionate about coding, programming, and all IT. 🚀<br><br>🎯 My goals? To excel in computer science, build innovative projects.<br><br>💡 Let's connect and collaborate on exciting tech projects! 📧 zouhairfgra@gmail.com 🌐 https://zouhairfgra.tech<br>
+# 👋 Hi, I'm Zouhair!
+
+A versatile **Full Stack Developer** with a passion for building robust and innovative web, mobile, and desktop applications. My expertise spans across the full stack, with a focus on React, React Native, Spring Boot, and the MERN stack. I am dedicated to leveraging technology to solve real-world problems and create impactful solutions.
 
 
+### 💻 Key Technologies & Expertise
 
+| Category        | Technologies                                                                          |
+|-----------------|---------------------------------------------------------------------------------------|
+| **Frontend** | React, React Native, Next.js, HTML5, CSS3, Tailwind CSS                               |
+| **Backend** | Node.js (Express.js), Spring Boot, Laravel, Python                                    |
+| **Databases** | MySQL, MongoDB, H2, Sqlite                                                                    |
+| **DevOps & Tools** | Git, Docker, Linux (RHEL), Maven, Postman, JIRA                                     |
+| **Automation** | Selenium, Playwright, Telenet                                                         |
+
+---
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=zouhairfgra&theme=react&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=zouhairfgra&theme=react&hide_border=false)<br/>
 
-## 🎮 Breakout Game from My GitHub Contributions
-Click to play a breakout game generated from my contribution graph!
+---
 
+### 📫 Let's Connect
+
+|                                  |                                                                                                   |
+|----------------------------------|---------------------------------------------------------------------------------------------------|
+| **Portfolio** | [https://zouhairfgra.tech](https://zouhairfgra.tech)                                              |
+| **LinkedIn** | [linkedin.com/in/zouhair-fouiguira](https://www.linkedin.com/in/zouhair-fouiguira/)               |
+| **Email** | [zouhairfgra@gmail.com](mailto:zouhairfgra@gmail.com)                                             |
+
+
+## 🎮 Breakout Game from My GitHub Contributions
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
@@ -21,13 +41,3 @@ Click to play a breakout game generated from my contribution graph!
   />
   <img alt="Breakout Game" src="images/breakout-light.svg" />
 </picture>
-
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=zouhairfgra&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/https://www.buymeacoffee.com/zouhairfgra) 
-
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
