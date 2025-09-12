@@ -28,16 +28,3 @@ A versatile **Full Stack Developer** with a passion for building robust and inno
 | **LinkedIn** | [linkedin.com/in/zouhair-fouiguira](https://www.linkedin.com/in/zouhair-fouiguira/)               |
 | **Email** | [zouhairfgra@gmail.com](mailto:zouhairfgra@gmail.com)                                             |
 
-
-## 🎮 Breakout Game from My GitHub Contributions
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="images/breakout-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="images/breakout-light.svg"
-  />
-  <img alt="Breakout Game" src="images/breakout-light.svg" />
-</picture>
