@@ -9,14 +9,14 @@ A versatile **Full Stack Developer** with a passion for building robust and inno
 |-----------------|---------------------------------------------------------------------------------------|
 | **Frontend** | React, React Native, Next.js, HTML5, CSS3, Tailwind CSS                               |
 | **Backend** | Node.js (Express.js), Spring Boot, Laravel, Python                                    |
-| **Databases** | MySQL, MongoDB, H2, Sqlite                                                                    |
+| **Databases** | MySQL, MongoDB, H2, Sqlite, PostgreSQL                                                                     |
 | **DevOps & Tools** | Git, Docker, Linux (RHEL), Maven, Postman, JIRA                                     |
 | **Automation** | Selenium, Playwright, Telenet                                                         |
 
 ---
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=zouhairfgra&theme=react&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=zouhairfgra&theme=react&hide_border=false)<br/>
+![](https://github-stats-two-lilac.vercel.app/api?username=zouhairfgra&theme=react&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats-kappa-wheat.vercel.app/?user=zouhairfgra&theme=react&hide_border=false)<br/>
 
 ---
 
