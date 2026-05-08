@@ -24,7 +24,7 @@ A versatile **Full Stack Developer** with a passion for building robust and inno
 
 |                                  |                                                                                                   |
 |----------------------------------|---------------------------------------------------------------------------------------------------|
-| **Portfolio** | [https://zouhairfgra.tech](https://zouhairfgra.tech)                                              |
+| **Portfolio** | [https://zouhairfgra.tech](https://fouiguira.com)                                              |
 | **LinkedIn** | [linkedin.com/in/zouhair-fouiguira](https://www.linkedin.com/in/zouhair-fouiguira/)               |
 | **Email** | [zouhairfgra@gmail.com](mailto:zouhairfgra@gmail.com)                                             |
 
